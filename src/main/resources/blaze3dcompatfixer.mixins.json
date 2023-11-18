@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.runarmc.blaze3dcompatfixer.mixins",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "Blaze3dCompatFixer.refmap.json",
+  "mixins": [
+
+  ],
+  "client": [
+    "Blaze3dTransformer"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
