@@ -6,3 +6,7 @@
 1. `isUsingFBO()Z`
 
 ### This mod is made for only one purpose, Patching Blaze3d's`isUsingFBO()Z` method.
+
+# Be aware !
+## This mod can break Optifine patcher, I won't give any support to this. 
+## If you need to use Optifine you'll probably need to make some work around! 
